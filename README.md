@@ -1,3 +1,2 @@
 # webpack-babel
-node v8.4.0
-yarn v0.27.5
+<ul><li>node v8.4.0</li><li>yarn v0.27.5</li></ul>
