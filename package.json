@@ -1,10 +1,10 @@
 {
-  "name": "fuga.com",
+  "name": "kyoyukashi.com",
   "version": "1.0.0",
   "main": "index.js",
   "author": "+13",
   "license": "MIT",
-  "scripts" : {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
@@ -18,9 +18,12 @@
     "extract-text-webpack-plugin": "^3.0.0",
     "node-sass": "^4.5.3",
     "path": "^0.12.7",
+    "resolve-url": "^0.2.1",
+    "resolve-url-loader": "^2.1.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "uglifyjs": "^2.4.11",
+    "url-loader": "^0.5.9",
     "webpack": "^3.5.5"
   }
 }
