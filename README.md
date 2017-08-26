@@ -20,6 +20,7 @@
 <li>url-loader</li>
 <li>file-loader</li>
 <li>extract-text-webpack-plugin</li>
+<li>uglifyjs-webpack-plugin</li>
 <li>webpack</li>
 <li>webpack-dev-server</li>
 </ul>
